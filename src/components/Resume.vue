@@ -88,7 +88,7 @@
           <div class="card shadow-sm mb-4">
             <div class="card-body">
               <h5 class="card-title"><i class="bi bi-mortarboard"></i> 教育经历</h5>
-              <p><strong>武汉华夏理工学院 · 通信工程专业</strong> 本科<br>2021.09 - 2026.06</p>
+              <p><strong>通信工程专业</strong> 本科<br>2021.09 - 2026.06</p>
             </div>
           </div>
           <!-- 资质证书 -->
